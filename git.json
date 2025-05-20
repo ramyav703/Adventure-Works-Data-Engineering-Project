@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "p_sink_folder": "Returns",
+        "p_filename": "returns.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder": "Sales2015",
+        "p_filename": "sales2015.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder": "Sales2016",
+        "p_filename": "sales2016.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder": "Sales2017",
+        "p_filename": "sales2017.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "p_sink_folder": "Products",
+        "p_filename": "products.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "p_sink_folder": "Customers",
+        "p_filename": "customers.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "p_sink_folder": "Territories",
+        "p_filename": "territories.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "p_sink_folder": "Calendar",
+        "p_filename": "calendar.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder": "ProductCategories",
+        "p_filename": "productcategories.csv"
+    },
+    {
+        "p_rel_url": "ramyav703/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder": "ProductSubcategories",
+        "p_filename": "productsubcategories.csv"
+    },
+]
